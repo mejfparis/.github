@@ -41,3 +41,15 @@ Page temporaire pendant la construction du site principal du Likoud France.
 Simple, claire, élégante, avec accès direct aux réseaux (Instagram, WhatsApp...).
 
 👉 [Voir le dépôt](https://github.com/mejfparis/likoud-site-en-construction)
+
+---
+
+## 🟦 site-betar
+
+![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3)
+
+Site web du Bétar de France 🇫🇷✡️  
+Design clair, esprit militant, ancré dans l’histoire du sionisme révisionniste et l’héritage de Jabotinsky.
+
+👉 [Voir le dépôt](https://github.com/mejfparis/site-betar)
